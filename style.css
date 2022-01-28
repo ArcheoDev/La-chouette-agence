@@ -838,6 +838,10 @@ h5 {
   border-color: #364577 !important;
 }
 
+.opacity {
+  opacity: 0.7;
+}
+
 /* Suppression du fond */
 /* .bg-dots-bg {
   background-image: url("img/dots-bg.png");
